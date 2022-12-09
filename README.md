@@ -1,3 +1,3 @@
-#Desktop-Regis-App (***JavaFX***)
+#Desktop-Regis-App (JavaFX)
 
-***Desktop app with DataBase connection :)***
+Simple desktop app with DataBase connection
